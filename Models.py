@@ -8,7 +8,7 @@ class Person:
         self.birthdate = DOB
         self.Email = email
         self.SocialNum = SSN
-        self.userName- uName
+        self.userName = uName
         self.password = pWord
         self.phoneNum = pNum
 
